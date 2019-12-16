@@ -1,3 +1,5 @@
 # Nixie-clock
+
 ## Introduction
-This project was created as bla bla bla
+
+![alt text](../Photos/DSC_0183_edited_comprimed.jpg "Nixie clock")
