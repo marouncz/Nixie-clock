@@ -1,0 +1,5 @@
+ESP32.c:15:6:ESP32Send	8	static
+ESP32.c:128:6:HAL_UART_RxCpltCallback	8	static
+ESP32.c:137:6:CleanBuffer	8	static
+ESP32.c:22:6:WiFiConnect	16	static
+ESP32.c:52:6:ESPSyncToRTC	72	static
