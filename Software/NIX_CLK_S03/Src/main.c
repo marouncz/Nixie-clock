@@ -107,7 +107,7 @@ int main(void)
 	RTC_config[1] = 0x0;
 	HAL_I2C_Master_Transmit(&hi2c1, 0x68 << 1, RTC_config, 3, 50);
 
-	//WiFiConnect("BLUEBERRY", "typasswOrdy");
+	
 
 	WiFiConnect();
 
